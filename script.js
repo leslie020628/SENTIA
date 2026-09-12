@@ -5,9 +5,9 @@
    ========================================================== */
 const SITE_CONFIG = {
   instagram: "https://www.instagram.com/sentia.dets/",
-  whatsapp: "", // Ej.: 18095551234
+  whatsapp: "18299740579", // Ej.: 18095551234
   minItems: 4,
-  maxItems: 6,
+  maxItems: 8,
   basePrice: 180
 };
 
